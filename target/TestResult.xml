@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="cxxtest" date="Thu Dec 18 11:05:44 2014" tests="2" errors="0" failures="0" time="0" >
+    <testcase classname="SearchReplace2Test" name="test_Unit_Test_1" line="16">
+        <warning line="17" >Test skipping is not supported without exception handling.</warning>
+    </testcase>
+    <testcase classname="SearchReplace2Test" name="test_Unit_Test_2" line="20" />
+</testsuite>

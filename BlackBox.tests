@@ -1,0 +1,16 @@
+[
+    {
+        "1": {
+            "input": "sprint prin prins",
+            "output": "sprinst",
+            "type": "CLI"
+        }
+    },
+    {
+        "2": {
+            "input": "aritra it mit",
+            "output": "armitra",
+            "type": "STDIN"
+        }
+    }
+]

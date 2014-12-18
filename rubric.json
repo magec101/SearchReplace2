@@ -1,0 +1,51 @@
+{
+    "criteria": {
+        "blackboxtests": [
+            {
+                "checkName": "1",
+                "checkType": "BlackBoxTest",
+                "group": "blackboxtests",
+                "penalty": "",
+                "rule": {
+                    "input": "sprint prin prins",
+                    "output": "sprinst",
+                    "type": "CLI"
+                },
+                "score": "",
+                "visible": "all"
+            },
+            {
+                "checkName": "2",
+                "checkType": "BlackBoxTest",
+                "group": "blackboxtests",
+                "penalty": "",
+                "rule": {
+                    "input": "aritra it mit",
+                    "output": "armitra",
+                    "type": "STDIN"
+                },
+                "score": "",
+                "visible": "all"
+            }
+        ],
+        "system": [
+            {
+                "checkName": "Compilation",
+                "checkType": "compile",
+                "group": "system",
+                "penalty": "",
+                "rule": {
+                    "deprecation_ignore": "",
+                    "warnings_ignore": ""
+                },
+                "score": "0",
+                "visible": "eval"
+            }
+        ]
+    },
+    "weightage": {
+        "blackboxtests": "undefined",
+        "system": "100"
+    },
+    "lastSaved": "20141218 163409"
+}
